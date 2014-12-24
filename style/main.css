@@ -1,0 +1,54 @@
+.jumbotron {
+	padding-top: 150px;
+	min-height: 500px;
+	margin-bottom: 0;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	text-align: center;
+	color: #ffffff;
+	border-radius: 0px;
+}
+
+#header{
+		background-image: url('../images/home.jpg');
+}
+
+.row {
+	min-height: 100px;
+	padding: auto;
+}
+
+.jumbotron h1 {
+	font-family: 'Voces', cursive;
+	font-size: 6em;
+}
+
+.navbar-inverse {
+	background-color: rgba(0,0,0,0.5)
+}
+
+p{
+	font-size: 1.75em;
+}
+
+h1{
+	font-family: 'Old Standard TT', Sans Serif;
+}
+#family{
+	background-image: url('../images/fishingmain.jpg');
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+}
+
+#fishing{
+	background-image: url('../images/fisherman.jpg');
+	background-size: cover;
+	min-height: 200px;
+	background-position: center;
+}
+
+#accomodation{
+	margin-top: 50px;
+}
